@@ -13,6 +13,7 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
 @NgModule({
   declarations: [
     AppComponent,
+    HeaderComponent,
     RecipesComponent,
     RecipeDetailComponent,
     RecipeListComponent,
